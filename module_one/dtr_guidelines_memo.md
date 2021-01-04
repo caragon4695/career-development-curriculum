@@ -54,7 +54,11 @@ Workflow Expectations (Git workflow/Tools/Code Review/Reviewing Pull Requests/De
 
 Pomodoro Break Schedule:
 
+Every 40 minutes tak POM. 
+
 Expectations for giving and receiving feedback:
+
+
 
 Additional Remote Considerations:
 
